@@ -49,6 +49,10 @@ In addition to business analysis, multiple data validation audits were performed
 * sale_id
 * repair_status
 
+The following Entity Relationship Diagram (ERD) illustrates the relationships between stores, products, categories, sales transactions, and warranty claims used throughout the analysis.
+
+![Entity Relationship Diagram](Screenshots/Entity_Relationship_Diagram.png)
+
 ---
 
 ## Dataset Source
