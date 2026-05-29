@@ -51,6 +51,19 @@ In addition to business analysis, multiple data validation audits were performed
 
 ---
 
+## Dataset Source
+
+Dataset: Apple Retail Sales Dataset
+
+Source:
+https://www.kaggle.com/datasets/amangarg08/apple-retail-sales-dataset
+
+This project uses a synthetic retail sales dataset containing over 1 million sales records across stores, products, categories, sales transactions, and warranty claims.
+
+The dataset was created for educational and portfolio purposes and does not represent actual Apple Inc. sales data.
+
+---
+
 ## Business Questions Solved
 
 ### Store Performance Analysis
